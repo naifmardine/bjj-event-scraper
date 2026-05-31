@@ -1,0 +1,39 @@
+{
+  "infosite_events": [
+    {
+      "id": 1,
+      "name": "Rio Fall International Open IBJJF Jiu-Jitsu Championship 2026",
+      "year": 2026,
+      "month": "Jun",
+      "startDay": 5,
+      "endDay": 6,
+      "intervalDays": "Jun 5 - Jun 6",
+      "local": "Centro Esportivo",
+      "city": "Rio de Janeiro",
+      "status": "published",
+      "pageUrl": "/events/rio-fall-2026"
+    },
+    {
+      "id": 2,
+      "name": "Old Worlds 2020",
+      "year": 2020,
+      "month": "May",
+      "startDay": 1,
+      "local": "Walter Pyramid",
+      "city": "Long Beach",
+      "status": "finished",
+      "pageUrl": "/events/old-worlds-2020"
+    },
+    {
+      "id": 3,
+      "name": "Campeonato PT 2026",
+      "year": 2026,
+      "month": "ago",
+      "startDay": 10,
+      "local": null,
+      "city": "São Paulo",
+      "status": "published",
+      "pageUrl": null
+    }
+  ]
+}
