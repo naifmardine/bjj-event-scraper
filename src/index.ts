@@ -11,6 +11,7 @@ import { normalizeEvents } from './normalize/index.js';
 import { dedupe } from './normalize/dedup.js';
 import { isPast } from './normalize/dates.js';
 import { closeBrowser } from './browser.js';
+import { hasDatabase, upsertEvents } from './db.js';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const OUTPUT = resolve(ROOT, 'data/events.json');
@@ -82,6 +83,21 @@ async function main() {
     `\nGravado ${deduped.length} eventos em data/events.json` +
       (failedSources.size ? ` (fontes preservadas: ${preservedSources.join(', ')})` : ''),
   );
+
+  // Persiste no Supabase (fonte permanente). Pula se DATABASE_URL não estiver
+  // setada — assim `npm run scrape` local sem credencial só gera o JSON.
+  if (hasDatabase()) {
+    try {
+      const n = await upsertEvents(deduped);
+      console.log(`Upsert no Postgres: ${n} eventos.`);
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : String(err);
+      console.error(`::error::Falha no upsert do banco: ${msg}`);
+      process.exit(1);
+    }
+  } else {
+    console.log('DATABASE_URL não setada — upsert no banco pulado (só events.json).');
+  }
 }
 
 main().catch((err) => {

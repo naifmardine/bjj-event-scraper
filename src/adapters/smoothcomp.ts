@@ -16,6 +16,7 @@ interface SmoothcompEvent {
   location_country?: string;
   location_country_human?: string;
   url?: string;
+  cover_image?: string; // capa real do evento
   eventEnded?: boolean;
 }
 
@@ -90,6 +91,7 @@ export const smoothcompAdapter: SourceAdapter = {
         location: [e.location_city, e.location_country_human].filter(Boolean).join(', '),
         url: e.url,
         typeHint: 'competition',
+        imageUrl: typeof e.cover_image === 'string' ? e.cover_image : undefined,
       });
     }
     return out;

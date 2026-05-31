@@ -3,3 +3,8 @@ node_modules/
 .DS_Store
 /tmp/
 /.cache/
+
+# Segredos — NUNCA commitar (repo público)
+.env
+.env.*
+!.env.example

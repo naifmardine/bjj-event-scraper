@@ -33,6 +33,10 @@ jobs:
 
       - name: Scrape
         run: npm run scrape
+        env:
+          # Secret do repositório. Se não estiver setado, o scraper só gera o
+          # events.json (o upsert no Supabase é pulado).
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
 
       - name: Validate
         run: npm run validate

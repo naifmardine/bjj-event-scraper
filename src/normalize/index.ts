@@ -34,6 +34,10 @@ export function normalizeEvents(raws: RawEvent[], ctx: NormalizeContext): Scrape
       continue;
     }
 
+    // Imagem só se for http(s); senão ignora (não bloqueia o evento).
+    const imageUrl =
+      raw.imageUrl && /^https?:\/\//i.test(raw.imageUrl) ? raw.imageUrl : undefined;
+
     const type = classifyType(raw.title, raw.typeHint);
     out.push({
       id: dedupKey(raw.title, dateISO),
@@ -46,6 +50,8 @@ export function normalizeEvents(raws: RawEvent[], ctx: NormalizeContext): Scrape
       dateISO,
       source: ctx.source,
       sourceUrl: raw.url,
+      ...(imageUrl ? { imageUrl } : {}),
+      ...(raw.accentColor ? { accentColor: raw.accentColor } : {}),
       scrapedAt: ctx.scrapedAt,
     });
   }

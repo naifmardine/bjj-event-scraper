@@ -32,6 +32,7 @@ interface InfositeEvent {
   city?: string | null;
   status?: string;
   pageUrl?: string | null;
+  logoBaseColor?: string | null; // cor hex do evento/federação
 }
 
 interface CalendarResponse {
@@ -74,12 +75,17 @@ export function createIbjjfApiAdapter(opts: {
         if (typeof e.year !== 'number' || e.year < 2020 || e.year > 2100) continue;
         if (typeof e.startDay !== 'number' || e.startDay < 1 || e.startDay > 31) continue;
         const day = String(e.startDay).padStart(2, '0');
+        const accentColor =
+          typeof e.logoBaseColor === 'string' && /^#[0-9a-fA-F]{6}$/.test(e.logoBaseColor)
+            ? e.logoBaseColor
+            : undefined;
         out.push({
           title: e.name,
           rawDate: `${e.year}-${mm}-${day}`,
           location: [e.local, e.city].filter(Boolean).join(', '),
           url: e.pageUrl ? `${baseUrl}${e.pageUrl}` : `${baseUrl}/events/calendar`,
           typeHint: 'competition',
+          accentColor,
         });
       }
       return out;

@@ -10,7 +10,8 @@
     "dateISO": "2026-05-31",
     "source": "smoothcomp",
     "sourceUrl": "https://fijjd.smoothcomp.com/en/event/29131",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/7771920-pv6a/campeonato-pernambucano-de-jiu-jitsu-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-uberlandia-fall-international-open-2026|2026-05-31",
@@ -23,7 +24,8 @@
     "dateISO": "2026-05-31",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/29649",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/7878989-86z0/pbjjf-uberlandia-winter-international-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-05",
@@ -36,7 +38,8 @@
     "dateISO": "2026-06-05",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009DC5",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-05",
@@ -49,7 +52,8 @@
     "dateISO": "2026-06-05",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009DC5",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-07",
@@ -62,7 +66,8 @@
     "dateISO": "2026-06-07",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009DC5",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-fall-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-07",
@@ -75,7 +80,8 @@
     "dateISO": "2026-06-07",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-fall-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009DC5",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-teresina-fall-international-open-2026|2026-06-07",
@@ -88,7 +94,8 @@
     "dateISO": "2026-06-07",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/31180",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8352579-728d/pbjjf-teresina-fall-international-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-gaucha-de-jiu-jitsu-3-etapa-2026|2026-06-07",
@@ -101,7 +108,8 @@
     "dateISO": "2026-06-07",
     "source": "smoothcomp",
     "sourceUrl": "https://copagaucha.smoothcomp.com/en/event/32164",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8718647-5953/copa-gaucha-de-jiu-jitsu-3o-etapa-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "1-etapa-do-circuito-oeste-baiano-de-jiu-jitsu-2026-fbjje|2026-06-07",
@@ -114,7 +122,8 @@
     "dateISO": "2026-06-07",
     "source": "smoothcomp",
     "sourceUrl": "https://fijjd.smoothcomp.com/en/event/32228",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8739947-sm0g/1a-etapa-do-circuito-oeste-baiano-de-jiu-jitsu-2026-fbjje.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "campeonato-brasileiro-de-jiu-jitsu-idade-04-a-15-anos-2026|2026-06-12",
@@ -127,7 +136,8 @@
     "dateISO": "2026-06-12",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/campeonato-brasileiro-de-jiu-jitsu-idade-04-a-15-anos-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00793C",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "london-spring-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-13",
@@ -140,7 +150,8 @@
     "dateISO": "2026-06-13",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/london-spring-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#2F3A82",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "london-spring-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-13",
@@ -153,7 +164,8 @@
     "dateISO": "2026-06-13",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/london-spring-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#2F3A82",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "london-spring-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-13",
@@ -166,7 +178,8 @@
     "dateISO": "2026-06-13",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/london-spring-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#2F3A82",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "charlotte-spring-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-13",
@@ -179,7 +192,8 @@
     "dateISO": "2026-06-13",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/charlotte-spring-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009982",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "charlotte-spring-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-13",
@@ -192,7 +206,8 @@
     "dateISO": "2026-06-13",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/charlotte-spring-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009982",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "detroit-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-13",
@@ -205,7 +220,8 @@
     "dateISO": "2026-06-13",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/detroit-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#1E4C9C",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "detroit-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-13",
@@ -218,7 +234,8 @@
     "dateISO": "2026-06-13",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/detroit-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#1E4C9C",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "charlotte-spring-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-14",
@@ -231,7 +248,8 @@
     "dateISO": "2026-06-14",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/charlotte-spring-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009982",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "detroit-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-14",
@@ -244,7 +262,8 @@
     "dateISO": "2026-06-14",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/detroit-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#1E4C9C",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "1-blue-fight-open|2026-06-14",
@@ -257,7 +276,8 @@
     "dateISO": "2026-06-14",
     "source": "smoothcomp",
     "sourceUrl": "https://smoothcomp.com/en/event/29806",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8907166-ugy5/1o-blue-fight-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "campeonato-sul-brasileiro-de-judo-2026|2026-06-14",
@@ -270,7 +290,8 @@
     "dateISO": "2026-06-14",
     "source": "smoothcomp",
     "sourceUrl": "https://sul.smoothcomp.com/en/event/30187",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8036287-b1a8/campeonato-sul-brasileiro-de-judo-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "compnet-de-outono-torres-2026-gi-no-gi|2026-06-14",
@@ -283,7 +304,8 @@
     "dateISO": "2026-06-14",
     "source": "smoothcomp",
     "sourceUrl": "https://compnet.smoothcomp.com/en/event/31305",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8407255-t3yl/compnet-de-outono-torres-2026-gi-no-gi.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "5-etapa-do-campeonato-baiano-de-jiu-jitsu-fbjje-2026-gi-no-gi|2026-06-14",
@@ -296,7 +318,8 @@
     "dateISO": "2026-06-14",
     "source": "smoothcomp",
     "sourceUrl": "https://fijjd.smoothcomp.com/en/event/31933",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8622280-gxmh/5a-etapa-do-campeonato-baiano-de-jiu-jitsu-fbjje-2026-gi-no-gi.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "fortaleza-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-20",
@@ -309,7 +332,8 @@
     "dateISO": "2026-06-20",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/fortaleza-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#792282",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "fortaleza-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-20",
@@ -322,7 +346,8 @@
     "dateISO": "2026-06-20",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/fortaleza-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#792282",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-jersey-spring-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-20",
@@ -335,7 +360,8 @@
     "dateISO": "2026-06-20",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/new-jersey-spring-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EFA100",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-jersey-spring-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-20",
@@ -348,7 +374,8 @@
     "dateISO": "2026-06-20",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/new-jersey-spring-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EFA100",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "st-louis-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-20",
@@ -361,7 +388,8 @@
     "dateISO": "2026-06-20",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/st-louis-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EF7905",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "st-louis-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-20",
@@ -374,7 +402,8 @@
     "dateISO": "2026-06-20",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/st-louis-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EF7905",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "munich-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-20",
@@ -387,7 +416,8 @@
     "dateISO": "2026-06-20",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/munich-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C61B32",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "munich-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-20",
@@ -400,7 +430,8 @@
     "dateISO": "2026-06-20",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/munich-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C61B32",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "seletiva-nacional-gamma-brasil-2026|2026-06-20",
@@ -413,7 +444,8 @@
     "dateISO": "2026-06-20",
     "source": "smoothcomp",
     "sourceUrl": "https://smoothcomp.com/en/event/31448",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8871490-ejle/seletiva-nacional-gamma-brasil-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "compnet-de-inverno-sao-paulo-2026|2026-06-20",
@@ -426,7 +458,8 @@
     "dateISO": "2026-06-20",
     "source": "smoothcomp",
     "sourceUrl": "https://compnet.smoothcomp.com/en/event/31996",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8677382-wllr/compnet-de-inverno-sao-paulo-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-desterro-litoral-2026-3|2026-06-20",
@@ -439,7 +472,8 @@
     "dateISO": "2026-06-20",
     "source": "smoothcomp",
     "sourceUrl": "https://desterro.smoothcomp.com/en/event/32480",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8877239-t060/copa-desterro-litoral-2026-3.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "fortaleza-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-21",
@@ -452,7 +486,8 @@
     "dateISO": "2026-06-21",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/fortaleza-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#792282",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-jersey-spring-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-06-21",
@@ -465,7 +500,8 @@
     "dateISO": "2026-06-21",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/new-jersey-spring-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EFA100",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-joao-pessoa-fall-international-open-2026|2026-06-21",
@@ -478,7 +514,8 @@
     "dateISO": "2026-06-21",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/31181",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8352536-z3ro/pbjjf-joao-pessoa-fall-international-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "compnet-de-inverno-itapema-2026|2026-06-21",
@@ -491,7 +528,8 @@
     "dateISO": "2026-06-21",
     "source": "smoothcomp",
     "sourceUrl": "https://compnet.smoothcomp.com/en/event/31905",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8613765-agbh/compnet-de-inverno-itapema-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "american-national-ibjjf-jiu-jitsu-championship-2026|2026-06-25",
@@ -504,7 +542,8 @@
     "dateISO": "2026-06-25",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/american-national-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B90525",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "american-national-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-25",
@@ -517,7 +556,8 @@
     "dateISO": "2026-06-25",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/american-national-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B90525",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "campeonato-brasileiro-de-jiu-jitsu-sem-kimono-2026|2026-06-27",
@@ -530,7 +570,8 @@
     "dateISO": "2026-06-27",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/campeonato-brasileiro-de-jiu-jitsu-sem-kimono-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#E2A900",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "american-national-kids-ibjjf-jiu-jitsu-championship-2026|2026-06-27",
@@ -543,7 +584,8 @@
     "dateISO": "2026-06-27",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/american-national-kids-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B90525",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "american-national-kids-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-06-27",
@@ -556,7 +598,8 @@
     "dateISO": "2026-06-27",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/american-national-kids-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B90525",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-sul-brasileiro-jiu-jitsu-championship-2026|2026-06-28",
@@ -569,7 +612,8 @@
     "dateISO": "2026-06-28",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/28810",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8450963-ypgm/pbjjf-sul-brasileiro-jiu-jitsu-championship-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-desterro-oeste-2026-2|2026-06-28",
@@ -582,7 +626,8 @@
     "dateISO": "2026-06-28",
     "source": "smoothcomp",
     "sourceUrl": "https://desterro.smoothcomp.com/en/event/32625",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8874524-4xk3/copa-desterro-oeste-2026-2.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "curitiba-bjj-pro-ibjjf-championship-2026|2026-07-04",
@@ -595,7 +640,8 @@
     "dateISO": "2026-07-04",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/curitiba-bjj-pro-ibjjf-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#64CAD2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "venice-jesolo-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-04",
@@ -608,7 +654,8 @@
     "dateISO": "2026-07-04",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/venice-jesolo-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C29412",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "venice-jesolo-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-04",
@@ -621,7 +668,8 @@
     "dateISO": "2026-07-04",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/venice-jesolo-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C29412",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-gramado-bjj-2026|2026-07-04",
@@ -634,7 +682,8 @@
     "dateISO": "2026-07-04",
     "source": "smoothcomp",
     "sourceUrl": "https://smoothcomp.com/en/event/31225",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8624555-1k4v/copa-gramado-bjj-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "compnet-de-inverno-vale-do-paraiba-2026|2026-07-04",
@@ -647,7 +696,8 @@
     "dateISO": "2026-07-04",
     "source": "smoothcomp",
     "sourceUrl": "https://compnet.smoothcomp.com/en/event/31479",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8453941-ydz5/compnet-de-inverno-vale-do-paraiba-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "kids-international-ibjjf-jiu-jitsu-championship-curitiba-2026|2026-07-05",
@@ -660,7 +710,8 @@
     "dateISO": "2026-07-05",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/kids-international-ibjjf-jiu-jitsu-championship-curitiba-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#61B2E5",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "asian-jiu-jitsu-ibjjf-championship-2026|2026-07-08",
@@ -673,7 +724,8 @@
     "dateISO": "2026-07-08",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/asian-jiu-jitsu-ibjjf-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C1AC57",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-winter-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-10",
@@ -686,7 +738,8 @@
     "dateISO": "2026-07-10",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-winter-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#629DC3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-winter-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-10",
@@ -699,7 +752,8 @@
     "dateISO": "2026-07-10",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-winter-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#629DC3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "austin-summer-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-10",
@@ -712,7 +766,8 @@
     "dateISO": "2026-07-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/austin-summer-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#AE1917",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "austin-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-10",
@@ -725,7 +780,8 @@
     "dateISO": "2026-07-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/austin-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#AE1917",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-11",
@@ -738,7 +794,8 @@
     "dateISO": "2026-07-11",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/los-angeles-summer-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#51267E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "los-angeles-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-11",
@@ -751,7 +808,8 @@
     "dateISO": "2026-07-11",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/los-angeles-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#51267E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-winter-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-12",
@@ -764,7 +822,8 @@
     "dateISO": "2026-07-12",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-winter-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#629DC3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rio-winter-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-12",
@@ -777,7 +836,8 @@
     "dateISO": "2026-07-12",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/rio-winter-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#629DC3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "austin-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-12",
@@ -790,7 +850,8 @@
     "dateISO": "2026-07-12",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/austin-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#AE1917",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "austin-summer-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-12",
@@ -803,7 +864,8 @@
     "dateISO": "2026-07-12",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/austin-summer-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#AE1917",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "los-angeles-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-12",
@@ -816,7 +878,8 @@
     "dateISO": "2026-07-12",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/los-angeles-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#51267E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-uruguaiana-de-judo-2026|2026-07-12",
@@ -829,7 +892,8 @@
     "dateISO": "2026-07-12",
     "source": "smoothcomp",
     "sourceUrl": "https://sul.smoothcomp.com/en/event/30185",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8036240-af0p/copa-uruguaiana-de-judo-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-corpo-e-mente-40-anos|2026-07-12",
@@ -842,7 +906,8 @@
     "dateISO": "2026-07-12",
     "source": "smoothcomp",
     "sourceUrl": "https://fijjd.smoothcomp.com/en/event/30795",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8215197-q060/copa-corpo-e-mente-40-anos-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "compnet-de-inverno-rio-de-janeiro-2026-gi-no-gi|2026-07-12",
@@ -855,7 +920,8 @@
     "dateISO": "2026-07-12",
     "source": "smoothcomp",
     "sourceUrl": "https://compnet.smoothcomp.com/en/event/31766",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8891621-zb92/compnet-de-inverno-rio-de-janeiro-2026-gi-no-gi.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sao-paulo-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-17",
@@ -868,7 +934,8 @@
     "dateISO": "2026-07-17",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/sao-paulo-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B8042E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sao-paulo-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-17",
@@ -881,7 +948,8 @@
     "dateISO": "2026-07-17",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/sao-paulo-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B8042E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "honolulu-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-17",
@@ -894,7 +962,8 @@
     "dateISO": "2026-07-17",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/honolulu-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#D1B402",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "honolulu-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-17",
@@ -907,7 +976,8 @@
     "dateISO": "2026-07-17",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/honolulu-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#D1B402",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "virginia-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-18",
@@ -920,7 +990,8 @@
     "dateISO": "2026-07-18",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/virginia-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#A81815",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "virginia-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-18",
@@ -933,7 +1004,8 @@
     "dateISO": "2026-07-18",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/virginia-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#A81815",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sao-paulo-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-19",
@@ -946,7 +1018,8 @@
     "dateISO": "2026-07-19",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/sao-paulo-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B8042E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sao-paulo-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-19",
@@ -959,7 +1032,8 @@
     "dateISO": "2026-07-19",
     "source": "cbjj",
     "sourceUrl": "https://cbjj.com.br/events/sao-paulo-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#B8042E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "virginia-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-19",
@@ -972,7 +1046,8 @@
     "dateISO": "2026-07-19",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/virginia-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#A81815",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "honolulu-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-19",
@@ -985,7 +1060,8 @@
     "dateISO": "2026-07-19",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/honolulu-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#D1B402",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "orlando-summer-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-23",
@@ -998,7 +1074,8 @@
     "dateISO": "2026-07-23",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/orlando-summer-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00A2BB",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "orlando-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-23",
@@ -1011,7 +1088,8 @@
     "dateISO": "2026-07-23",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/orlando-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00A2BB",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pan-kids-ibjjf-jiu-jitsu-championship-2026|2026-07-24",
@@ -1024,7 +1102,8 @@
     "dateISO": "2026-07-24",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/pan-kids-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#5CACC0",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "portland-international-open-ibjjf-jiu-jitsu-championship-2026|2026-07-25",
@@ -1037,7 +1116,8 @@
     "dateISO": "2026-07-25",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/portland-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00813B",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "portland-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-07-25",
@@ -1050,7 +1130,8 @@
     "dateISO": "2026-07-25",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/portland-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00813B",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sul-brasileiro-2026|2026-07-26",
@@ -1063,7 +1144,8 @@
     "dateISO": "2026-07-26",
     "source": "smoothcomp",
     "sourceUrl": "https://sportjiujitsurs.smoothcomp.com/en/event/29800",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8341709-7082/sul-brasileiro-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "submission-underground-grappling-2026|2026-07-26",
@@ -1076,7 +1158,8 @@
     "dateISO": "2026-07-26",
     "source": "smoothcomp",
     "sourceUrl": "https://desterro.smoothcomp.com/en/event/32501",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8887428-i2fv/submission-underground-grappling-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "dallas-summer-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-01",
@@ -1089,7 +1172,8 @@
     "dateISO": "2026-08-01",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/dallas-summer-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#017BB2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "dallas-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-08-01",
@@ -1102,7 +1186,8 @@
     "dateISO": "2026-08-01",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/dallas-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#017BB2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "dallas-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-02",
@@ -1115,7 +1200,8 @@
     "dateISO": "2026-08-02",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/dallas-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#017BB2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-gaucha-de-jiu-jitsu-4-etapa-2026|2026-08-02",
@@ -1128,7 +1214,8 @@
     "dateISO": "2026-08-02",
     "source": "smoothcomp",
     "sourceUrl": "https://copagaucha.smoothcomp.com/en/event/32418",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8805713-8hcg/copa-gaucha-de-jiu-jitsu-4o-etapa-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "san-diego-summer-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-08",
@@ -1141,7 +1228,8 @@
     "dateISO": "2026-08-08",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/san-diego-summer-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00A5C2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "san-diego-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-08-08",
@@ -1154,7 +1242,8 @@
     "dateISO": "2026-08-08",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/san-diego-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00A5C2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "chicago-summer-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-08",
@@ -1167,7 +1256,8 @@
     "dateISO": "2026-08-08",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/chicago-summer-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00993B",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "chicago-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-08-08",
@@ -1180,7 +1270,8 @@
     "dateISO": "2026-08-08",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/chicago-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00993B",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "san-diego-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-09",
@@ -1193,7 +1284,8 @@
     "dateISO": "2026-08-09",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/san-diego-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00A5C2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "chicago-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-09",
@@ -1206,7 +1298,8 @@
     "dateISO": "2026-08-09",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/chicago-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#00993B",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-fortaleza-winter-international-open-2026|2026-08-09",
@@ -1219,7 +1312,8 @@
     "dateISO": "2026-08-09",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/32176",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8723398-ts68/pbjjf-fortaleza-winter-international-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "seoul-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-15",
@@ -1232,7 +1326,8 @@
     "dateISO": "2026-08-15",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/seoul-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#772270",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "seoul-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-08-15",
@@ -1245,7 +1340,8 @@
     "dateISO": "2026-08-15",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/seoul-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#772270",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-york-summer-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-15",
@@ -1258,7 +1354,8 @@
     "dateISO": "2026-08-15",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/new-york-summer-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C61C27",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-york-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-08-15",
@@ -1271,7 +1368,8 @@
     "dateISO": "2026-08-15",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/new-york-summer-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C61C27",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-york-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-08-16",
@@ -1284,7 +1382,8 @@
     "dateISO": "2026-08-16",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/new-york-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C61C27",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sul-brasileiro-de-jiu-jitsu|2026-08-22",
@@ -1297,7 +1396,8 @@
     "dateISO": "2026-08-22",
     "source": "smoothcomp",
     "sourceUrl": "https://fijjd.smoothcomp.com/en/event/26532",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/6938729-5453/sul-brasileiro-de-jiu-jitsu-2025.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "arraial-do-cabo-cup-d-bjj-euro-brazil-tour-2-etapa|2026-08-22",
@@ -1310,7 +1410,8 @@
     "dateISO": "2026-08-22",
     "source": "smoothcomp",
     "sourceUrl": "https://dbjj.smoothcomp.com/en/event/27893",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8341747-k4to/arraial-do-cabo-cup-d-bjj-euro-brazil-tour-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-brasilia-winter-international-open-2026|2026-08-22",
@@ -1323,7 +1424,8 @@
     "dateISO": "2026-08-22",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/30645",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8741601-v510/pbjjf-brasilia-winter-international-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "world-master-ibjjf-jiu-jitsu-championship-2026|2026-09-03",
@@ -1336,7 +1438,8 @@
     "dateISO": "2026-09-03",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/world-master-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#DEBE0D",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "jiu-jitsu-con-international-2026|2026-09-03",
@@ -1349,7 +1452,8 @@
     "dateISO": "2026-09-03",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/jiu-jitsu-con-international-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#005E9B",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "jiu-jitsu-con-no-gi-international-2026|2026-09-03",
@@ -1362,7 +1466,8 @@
     "dateISO": "2026-09-03",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/jiu-jitsu-con-no-gi-international-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#659FB3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "jiu-jitsu-con-novice-international-2026|2026-09-03",
@@ -1375,7 +1480,8 @@
     "dateISO": "2026-09-03",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/jiu-jitsu-con-novice-international-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#77960C",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "jiu-jitsu-con-kids-international-2026|2026-09-04",
@@ -1388,7 +1494,8 @@
     "dateISO": "2026-09-04",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/jiu-jitsu-con-kids-international-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#C87701",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "jiu-jitsu-con-kids-no-gi-international-2026|2026-09-04",
@@ -1401,7 +1508,8 @@
     "dateISO": "2026-09-04",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/jiu-jitsu-con-kids-no-gi-international-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#826190",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-serra-gaucha-2026|2026-09-13",
@@ -1414,7 +1522,8 @@
     "dateISO": "2026-09-13",
     "source": "smoothcomp",
     "sourceUrl": "https://sul.smoothcomp.com/en/event/30188",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8036320-6m1s/copa-serra-gaucha-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "kuala-lumpur-international-open-ibjjf-jiu-jitsu-championship-2026|2026-09-19",
@@ -1427,7 +1536,8 @@
     "dateISO": "2026-09-19",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/kuala-lumpur-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#027AB0",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "kuala-lumpur-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-09-19",
@@ -1440,7 +1550,8 @@
     "dateISO": "2026-09-19",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/kuala-lumpur-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#027AB0",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "kuala-lumpur-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-09-19",
@@ -1453,7 +1564,8 @@
     "dateISO": "2026-09-19",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/kuala-lumpur-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#027AB0",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "super-lutas-compnet-santa-catarina-2026|2026-09-19",
@@ -1466,7 +1578,8 @@
     "dateISO": "2026-09-19",
     "source": "smoothcomp",
     "sourceUrl": "https://compnet.smoothcomp.com/en/event/32213",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8891585-nve0/super-lutas-compnet-santa-catarina-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "compnet-primavera-de-santa-catarina-2026|2026-09-20",
@@ -1479,7 +1592,8 @@
     "dateISO": "2026-09-20",
     "source": "smoothcomp",
     "sourceUrl": "https://compnet.smoothcomp.com/en/event/32537",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8849275-2nyw/compnet-primavera-de-santa-catarina-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "san-antonio-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-09-27",
@@ -1492,7 +1606,8 @@
     "dateISO": "2026-09-27",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/san-antonio-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#068EC2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "san-antonio-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-09-27",
@@ -1505,7 +1620,8 @@
     "dateISO": "2026-09-27",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/san-antonio-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#068EC2",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-gaucha-de-jiu-jitsu-5-etapa-2026|2026-09-27",
@@ -1518,7 +1634,8 @@
     "dateISO": "2026-09-27",
     "source": "smoothcomp",
     "sourceUrl": "https://copagaucha.smoothcomp.com/en/event/32419",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8805720-127/copa-gaucha-de-jiu-jitsu-5o-etapa-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pan-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-02",
@@ -1531,7 +1648,8 @@
     "dateISO": "2026-10-02",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/pan-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#5CACC0",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "lisbon-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-09",
@@ -1544,7 +1662,8 @@
     "dateISO": "2026-10-09",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/lisbon-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009339",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "lisbon-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-09",
@@ -1557,7 +1676,8 @@
     "dateISO": "2026-10-09",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/lisbon-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009339",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "charlotte-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-10",
@@ -1570,7 +1690,8 @@
     "dateISO": "2026-10-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/charlotte-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009982",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "charlotte-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-10",
@@ -1583,7 +1704,8 @@
     "dateISO": "2026-10-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/charlotte-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009982",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "european-kids-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-10",
@@ -1596,7 +1718,8 @@
     "dateISO": "2026-10-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/european-kids-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#004890",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "houston-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-10",
@@ -1609,7 +1732,8 @@
     "dateISO": "2026-10-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/houston-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#699ED3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "houston-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-10",
@@ -1622,7 +1746,8 @@
     "dateISO": "2026-10-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/houston-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#699ED3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-sao-carlos-winter-international-open-2026|2026-10-10",
@@ -1635,7 +1760,8 @@
     "dateISO": "2026-10-10",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/30002",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8267931-2qwu/pbjjf-sao-carlos-winter-international-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "charlotte-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-11",
@@ -1648,7 +1774,8 @@
     "dateISO": "2026-10-11",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/charlotte-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#009982",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "houston-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-11",
@@ -1661,7 +1788,8 @@
     "dateISO": "2026-10-11",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/houston-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#699ED3",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "26-campeonato-estadual-de-judo|2026-10-11",
@@ -1674,7 +1802,8 @@
     "dateISO": "2026-10-11",
     "source": "smoothcomp",
     "sourceUrl": "https://sul.smoothcomp.com/en/event/30191",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8036540-w2oe/26o-campeonato-estadual-de-judo-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pan-pacific-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-16",
@@ -1687,7 +1816,8 @@
     "dateISO": "2026-10-16",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/pan-pacific-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#E2A900",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sacramento-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-17",
@@ -1700,7 +1830,8 @@
     "dateISO": "2026-10-17",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/sacramento-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#0056A4",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "sacramento-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-17",
@@ -1713,7 +1844,8 @@
     "dateISO": "2026-10-17",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/sacramento-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#0056A4",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "fort-lauderdale-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-17",
@@ -1726,7 +1858,8 @@
     "dateISO": "2026-10-17",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/fort-lauderdale-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#E4062F",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "fort-lauderdale-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-17",
@@ -1739,7 +1872,8 @@
     "dateISO": "2026-10-17",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/fort-lauderdale-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#E4062F",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pan-pacific-ibjjf-jiu-jitsu-championship-2026|2026-10-17",
@@ -1752,7 +1886,8 @@
     "dateISO": "2026-10-17",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/pan-pacific-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#E2A900",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-sul-americano-jiu-jitsu-championship-2026|2026-10-17",
@@ -1765,7 +1900,8 @@
     "dateISO": "2026-10-17",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/28743",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8450592-8vgm/pbjjf-sul-americano-jiu-jitsu-championship-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pan-kids-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-18",
@@ -1778,7 +1914,8 @@
     "dateISO": "2026-10-18",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/pan-kids-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#5CACC0",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pan-pacific-kids-ibjjf-jiu-jitsu-championship-2026|2026-10-18",
@@ -1791,7 +1928,8 @@
     "dateISO": "2026-10-18",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/pan-pacific-kids-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#E2A900",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "boston-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-24",
@@ -1804,7 +1942,8 @@
     "dateISO": "2026-10-24",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/boston-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#0080BC",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "boston-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-24",
@@ -1817,7 +1956,8 @@
     "dateISO": "2026-10-24",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/boston-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#0080BC",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "orange-county-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-24",
@@ -1830,7 +1970,8 @@
     "dateISO": "2026-10-24",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/orange-county-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#D37E09",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "orange-county-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-24",
@@ -1843,7 +1984,8 @@
     "dateISO": "2026-10-24",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/orange-county-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#D37E09",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "nashville-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-24",
@@ -1856,7 +1998,8 @@
     "dateISO": "2026-10-24",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/nashville-fall-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#DB960E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "nashville-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-24",
@@ -1869,7 +2012,8 @@
     "dateISO": "2026-10-24",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/nashville-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#DB960E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "boston-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-25",
@@ -1882,7 +2026,8 @@
     "dateISO": "2026-10-25",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/boston-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#0080BC",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "orange-county-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-25",
@@ -1895,7 +2040,8 @@
     "dateISO": "2026-10-25",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/orange-county-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#D37E09",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "nashville-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-25",
@@ -1908,7 +2054,8 @@
     "dateISO": "2026-10-25",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/nashville-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#DB960E",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "rome-international-open-ibjjf-jiu-jitsu-championship-2026|2026-10-27",
@@ -1921,7 +2068,8 @@
     "dateISO": "2026-10-27",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/rome-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#528E5C",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "european-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-10-28",
@@ -1934,7 +2082,8 @@
     "dateISO": "2026-10-28",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/european-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#E3AA28",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-gaucha-de-jiu-jitsu-6-etapa-2026|2026-11-01",
@@ -1947,7 +2096,8 @@
     "dateISO": "2026-11-01",
     "source": "smoothcomp",
     "sourceUrl": "https://copagaucha.smoothcomp.com/en/event/32420",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8805736-hv9f/copa-gaucha-de-jiu-jitsu-5o-etapa-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "kansas-city-international-open-ibjjf-jiu-jitsu-championship-2026|2026-11-07",
@@ -1960,7 +2110,8 @@
     "dateISO": "2026-11-07",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/kansas-city-international-open-ibjjf-jiu-jitsu-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#CD1719",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "kansas-city-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-11-07",
@@ -1973,7 +2124,8 @@
     "dateISO": "2026-11-07",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/kansas-city-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#CD1719",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "arraial-do-cabo-cup-d-bjj-euro-brazil-tour-3-etapa|2026-11-07",
@@ -1986,7 +2138,8 @@
     "dateISO": "2026-11-07",
     "source": "smoothcomp",
     "sourceUrl": "https://dbjj.smoothcomp.com/en/event/27362",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8341742-cjaa/arraial-do-cabo-cup-d-bjj-euro-brazil-tour-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-jersey-fall-international-open-ibjjf-jiu-jitsu-championship-2026|2026-11-21",
@@ -1999,7 +2152,8 @@
     "dateISO": "2026-11-21",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EEA100",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-jersey-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-11-21",
@@ -2012,7 +2166,8 @@
     "dateISO": "2026-11-21",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EEA100",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "pbjjf-patos-de-minas-spring-international-open-2026|2026-11-21",
@@ -2025,7 +2180,8 @@
     "dateISO": "2026-11-21",
     "source": "smoothcomp",
     "sourceUrl": "https://pbjjf.smoothcomp.com/en/event/31001",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8268853-y9ly/pbjjf-patos-de-minas-spring-international-open-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "new-jersey-fall-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-11-22",
@@ -2038,7 +2194,8 @@
     "dateISO": "2026-11-22",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#EEA100",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "japanese-national-ibjjf-jiu-jitsu-championship-2026|2026-12-03",
@@ -2051,7 +2208,8 @@
     "dateISO": "2026-12-03",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#FFFFFF",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "japanese-national-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-12-03",
@@ -2064,7 +2222,8 @@
     "dateISO": "2026-12-03",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#FFFFFF",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "master-international-jiu-jitsu-championship-asia-2026|2026-12-04",
@@ -2077,7 +2236,8 @@
     "dateISO": "2026-12-04",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#FFFFFF",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "waco-international-open-ibjjf-jiu-jitsu-championship-2026|2026-12-05",
@@ -2090,7 +2250,8 @@
     "dateISO": "2026-12-05",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#47AC34",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "waco-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-12-05",
@@ -2103,7 +2264,8 @@
     "dateISO": "2026-12-05",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#47AC34",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "waco-kids-international-open-ibjjf-jiu-jitsu-championship-2026|2026-12-05",
@@ -2116,7 +2278,8 @@
     "dateISO": "2026-12-05",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#47AC34",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "asian-kids-ibjjf-jiu-jitsu-championship-2026|2026-12-06",
@@ -2129,7 +2292,8 @@
     "dateISO": "2026-12-06",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#FFFFFF",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "copa-dos-campeoes-desafio-golden-score-2026|2026-12-06",
@@ -2142,7 +2306,8 @@
     "dateISO": "2026-12-06",
     "source": "smoothcomp",
     "sourceUrl": "https://sul.smoothcomp.com/en/event/30192",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "imageUrl": "https://smoothcomp.com/pictures/t/8036546-s583/copa-dos-campeoes-desafio-golden-score-2026.jpg",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   },
   {
     "id": "world-ibjjf-jiu-jitsu-no-gi-championship-2026|2026-12-10",
@@ -2155,6 +2320,7 @@
     "dateISO": "2026-12-10",
     "source": "ibjjf",
     "sourceUrl": "https://ibjjf.com/events/calendar",
-    "scrapedAt": "2026-05-31T06:13:46.540Z"
+    "accentColor": "#FFFFFF",
+    "scrapedAt": "2026-05-31T06:46:10.732Z"
   }
 ]

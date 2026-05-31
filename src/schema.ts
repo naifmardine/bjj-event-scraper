@@ -18,6 +18,15 @@ export const scrapedEventSchema = z.object({
     .string()
     .url()
     .refine((u) => /^https?:\/\//i.test(u), 'sourceUrl deve usar http(s)'),
+  imageUrl: z
+    .string()
+    .url()
+    .refine((u) => /^https?:\/\//i.test(u), 'imageUrl deve usar http(s)')
+    .optional(),
+  accentColor: z
+    .string()
+    .regex(/^#[0-9a-fA-F]{6}$/, 'accentColor deve ser hex #RRGGBB')
+    .optional(),
   scrapedAt: z.string().datetime(),
 });
 

@@ -21,6 +21,8 @@ export interface ScrapedEvent extends BJJEvent {
   dateISO: string; // "2026-01-24" — canônico p/ ordenar e dedup
   source: string; // "ibjjf" | "cbjj" | "smoothcomp"
   sourceUrl: string; // URL de detalhe/inscrição
+  imageUrl?: string; // foto/capa real do evento (ex: Smoothcomp cover_image)
+  accentColor?: string; // cor hex da federação p/ banner estilizado (ex: IBJJF logoBaseColor)
   scrapedAt: string; // ISO timestamp da coleta
 }
 
@@ -37,6 +39,8 @@ export interface RawEvent {
   location: string;
   url: string;
   typeHint?: string; // categoria da fonte, se houver
+  imageUrl?: string; // capa real do evento, se a fonte fornecer
+  accentColor?: string; // cor hex da federação, se a fonte fornecer
 }
 
 export interface SourceAdapter {
