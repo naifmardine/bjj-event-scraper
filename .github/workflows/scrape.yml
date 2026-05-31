@@ -1,0 +1,50 @@
+name: scrape-events
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # toda segunda-feira 06:00 UTC (semanal)
+  workflow_dispatch: {} # permite rodar manualmente
+
+permissions:
+  contents: write # p/ commitar data/events.json
+
+concurrency:
+  group: scrape
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm ci
+
+      # Playwright só é instalado se algum adapter usar strategy:'browser'.
+      # Hoje todas as fontes são HTTP-first, então fica desligado por padrão.
+      - name: Install Playwright (fallback)
+        if: ${{ vars.USE_BROWSER == 'true' }}
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape
+        run: npm run scrape
+
+      - name: Validate
+        run: npm run validate
+
+      - name: Commit if changed
+        run: |
+          git config user.name "bjj-scraper-bot"
+          git config user.email "bjj-scraper-bot@users.noreply.github.com"
+          git add data/events.json
+          if git diff --staged --quiet; then
+            echo "Sem mudanças no events.json."
+          else
+            git commit -m "data: atualiza events.json ($(date -u +%FT%TZ))"
+            git push
+          fi
