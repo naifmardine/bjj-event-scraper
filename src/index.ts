@@ -16,6 +16,13 @@ import { hasDatabase, upsertEvents } from './db.js';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const OUTPUT = resolve(ROOT, 'data/events.json');
 
+/** Remove a DATABASE_URL de mensagens de erro — logs do Action são públicos. */
+function redactSecret(err: unknown): string {
+  const raw = err instanceof Error ? err.message : String(err);
+  const url = process.env.DATABASE_URL;
+  return url ? raw.split(url).join('[REDACTED]') : raw;
+}
+
 async function loadPrevious(): Promise<ScrapedEvent[]> {
   try {
     return JSON.parse(await readFile(OUTPUT, 'utf8')) as ScrapedEvent[];
@@ -91,8 +98,7 @@ async function main() {
       const n = await upsertEvents(deduped);
       console.log(`Upsert no Postgres: ${n} eventos.`);
     } catch (err) {
-      const msg = err instanceof Error ? err.message : String(err);
-      console.error(`::error::Falha no upsert do banco: ${msg}`);
+      console.error(`::error::Falha no upsert do banco: ${redactSecret(err)}`);
       process.exit(1);
     }
   } else {
