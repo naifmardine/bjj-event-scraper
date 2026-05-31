@@ -12,6 +12,10 @@ import { dedupe } from './normalize/dedup.js';
 import { isPast } from './normalize/dates.js';
 import { closeBrowser } from './browser.js';
 import { hasDatabase, upsertEvents } from './db.js';
+import { fetchEventImage } from './enrich/ibjjf-image.js';
+
+// Federações cujo imagem vive na página de detalhe (não na API do calendário).
+const ENRICH_SOURCES = new Set(['ibjjf', 'cbjj']);
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const OUTPUT = resolve(ROOT, 'data/events.json');
@@ -79,6 +83,33 @@ async function main() {
     console.error('::error::Nenhum evento coletado de nenhuma fonte. Mantendo events.json anterior.');
     process.exit(1);
   }
+
+  // Enriquecimento de imagem (IBJJF/CBJJ): a imagem vive na página de detalhe.
+  // Cache incremental: se o evento (por id) já tinha imageUrl no run anterior,
+  // reusa e pula o fetch — só busca eventos novos.
+  const prevImage = new Map(previous.filter((e) => e.imageUrl).map((e) => [e.id, e.imageUrl!]));
+  let enriched = 0;
+  let fetched = 0;
+  for (const ev of collected) {
+    if (ev.imageUrl || !ENRICH_SOURCES.has(ev.source)) continue;
+    const cached = prevImage.get(ev.id);
+    if (cached) {
+      ev.imageUrl = cached;
+      enriched++;
+      continue;
+    }
+    try {
+      const img = await fetchEventImage(ev.sourceUrl);
+      if (img) {
+        ev.imageUrl = img;
+        enriched++;
+      }
+      fetched++;
+    } catch {
+      // página de detalhe falhou — segue sem imagem (app cai no logo da federação)
+    }
+  }
+  console.log(`Imagens IBJJF/CBJJ: ${enriched} com imagem (${fetched} páginas buscadas, resto via cache).`);
 
   const deduped = dedupe(collected, priorityBySource).sort((a, b) =>
     a.dateISO.localeCompare(b.dateISO),
